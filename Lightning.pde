@@ -6,7 +6,7 @@ int endY = 150;
 void setup()
 {
   size(300,300);
-  strokeweight();
+  strokeWeight();
   background();
 }
 void draw()
