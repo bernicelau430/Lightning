@@ -11,10 +11,9 @@ void setup()
 }
 void draw()
 {
-  stroke(Math.random());
+  stroke((int) (Math.random()));
 }
 void mousePressed()
 {
 
 }
-
